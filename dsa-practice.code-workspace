@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 14,
+		"editor.acceptSuggestionOnCommitCharacter": false,
+		"editor.inlineSuggest.enabled": false
+	}
+}
